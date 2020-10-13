@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>950661943643-fh11so6f0daf58bh7og423bnq9960oul.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.950661943643-fh11so6f0daf58bh7og423bnq9960oul</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBpC1bPg0KZMxuIskX0Q5IRa2nU0IP5QI4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>950661943643</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.clipchak.box</string>
+	<key>PROJECT_ID</key>
+	<string>box-app-9454c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>box-app-9454c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:950661943643:ios:3ae115cec0009cf3</string>
+	<key>DATABASE_URL</key>
+	<string>https://box-app-9454c.firebaseio.com</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-7335163268569903~1112045850</string>
+</dict>
+</plist>
